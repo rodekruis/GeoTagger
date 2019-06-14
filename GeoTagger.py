@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-The tagging is currently executed by functions of the GPSPhoto module
-IMU data is not added to the JPGs yet because ODM does not seem to make use of it.
+The tagging is currently executed by functions of the GPSPhoto module.
+IMU data is not added to the JPGs yet, because of problems with the xmp format.
 Pix4D mapper allows for orientation input via the XMP format (https://support.pix4d.com/hc/en-us/articles/205732309#label8)
 """
 
